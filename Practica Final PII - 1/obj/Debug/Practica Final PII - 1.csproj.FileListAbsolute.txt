@@ -1,0 +1,10 @@
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\bin\Debug\Practica Final PII - 1.exe.config
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\bin\Debug\Practica Final PII - 1.exe
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\bin\Debug\Practica Final PII - 1.pdb
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\obj\Debug\Practica Final PII - 1.csprojAssemblyReference.cache
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\obj\Debug\Practica_Final_PII___1.Form.resources
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\obj\Debug\Practica_Final_PII___1.Properties.Resources.resources
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\obj\Debug\Practica Final PII - 1.csproj.GenerateResource.cache
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\obj\Debug\Practica Final PII - 1.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\obj\Debug\Practica Final PII - 1.exe
+C:\Users\Tomas\source\repos\FINAL PII\Practica Final PII - 1\Practica Final PII - 1\obj\Debug\Practica Final PII - 1.pdb
